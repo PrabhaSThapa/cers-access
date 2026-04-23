@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cers-access",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d712a54a-6523-4299-8c07-6ce62e069ea2",
+			"database_name": "ignore-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
